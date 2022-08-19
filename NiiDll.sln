@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiiDll", "NiiDll\NiiDll.csproj", "{059304B2-CE85-4CD6-8EEE-D74A88C83BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiiDll_SandBox", "NiiDll_SandBox\NiiDll_SandBox.csproj", "{45BC5E74-6A4C-4DD9-A3B3-5F845B55C252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{059304B2-CE85-4CD6-8EEE-D74A88C83BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059304B2-CE85-4CD6-8EEE-D74A88C83BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059304B2-CE85-4CD6-8EEE-D74A88C83BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059304B2-CE85-4CD6-8EEE-D74A88C83BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BC5E74-6A4C-4DD9-A3B3-5F845B55C252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BC5E74-6A4C-4DD9-A3B3-5F845B55C252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BC5E74-6A4C-4DD9-A3B3-5F845B55C252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BC5E74-6A4C-4DD9-A3B3-5F845B55C252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FF517E8-4678-4300-9201-263C83DF9EE3}
+	EndGlobalSection
+EndGlobal

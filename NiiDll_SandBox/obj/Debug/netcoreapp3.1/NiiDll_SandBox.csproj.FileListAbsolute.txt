@@ -1,0 +1,16 @@
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\bin\Debug\netcoreapp3.1\NiiDll_SandBox.exe
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\bin\Debug\netcoreapp3.1\NiiDll_SandBox.deps.json
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\bin\Debug\netcoreapp3.1\NiiDll_SandBox.runtimeconfig.json
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\bin\Debug\netcoreapp3.1\NiiDll_SandBox.runtimeconfig.dev.json
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\bin\Debug\netcoreapp3.1\NiiDll_SandBox.dll
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\bin\Debug\netcoreapp3.1\NiiDll_SandBox.pdb
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\bin\Debug\netcoreapp3.1\NiiDll.dll
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\bin\Debug\netcoreapp3.1\NiiDll.pdb
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\obj\Debug\netcoreapp3.1\NiiDll_SandBox.csprojAssemblyReference.cache
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\obj\Debug\netcoreapp3.1\NiiDll_SandBox.AssemblyInfoInputs.cache
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\obj\Debug\netcoreapp3.1\NiiDll_SandBox.AssemblyInfo.cs
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\obj\Debug\netcoreapp3.1\NiiDll_SandBox.csproj.CoreCompileInputs.cache
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\obj\Debug\netcoreapp3.1\NiiDll_SandBox.csproj.CopyComplete
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\obj\Debug\netcoreapp3.1\NiiDll_SandBox.dll
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\obj\Debug\netcoreapp3.1\NiiDll_SandBox.pdb
+D:\Project\GitHub\NiiDll\NiiDll_SandBox\obj\Debug\netcoreapp3.1\NiiDll_SandBox.genruntimeconfig.cache
